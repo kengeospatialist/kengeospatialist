@@ -1,6 +1,6 @@
 Hi There 👋<br>
 I’m Kennedy Kiio/@kengeospatialist a GIS professional with interest in mobile and web development and their intergration with location based information.
-Over the past year i have produced maps as well as developed varios web and mobile applications. 
+Over the past year i have produced maps as well as developed various web and mobile applications. 
 <hr>
 <hr>
 📫 Get in touch:<br/>
