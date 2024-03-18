@@ -5,14 +5,13 @@ Over the past year i have produced maps as well as developed various web and mob
 Apps
 <ol>
 <li>Env. Collector - Playstore</li>
-<li>Kei110 My Shop</li>
+<li>Serve MiCar - Mi Store</li>
+<li>I Collect - Mi Store, Amazon App Store, Playstore - (Coming Soon)</li>
 </ol>
 <hr>
 📫 Get in touch:<br/>
     Website:<a>https://musembi.kei1110.co.ke</a><br/>
-    Email : musembi@kei1110.co.ke <br/>
-            kiiokennedy1995@gmail.com <br/>
-
+    Email : kiiokennedy1995@gmail.com <br/>
 <!---
 kengeospatialist/kengeospatialist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
