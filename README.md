@@ -1,9 +1,11 @@
 Hi There 👋<br>
-I’m Kennedy Kiio/@kengeospatialist a GIS professional with an interest in mobile and web development and their integration with location-based information.
+I’m Kennedy Kiio/@kengeospatialist a GIS professional interested in mobile and web development and their integration with location-based information.
 Over the past year, I have produced maps as well as developed various web and mobile applications. 
 <hr>
 Apps
 <ol>
+    <li>Geo Rental Desktop - Available at Geomodel Consultants</li>
+    <li>Geo Rental  - Amazon AppStore/Geomodel Consultants</li>
 <li>Env. Collector - Amazon AppStore</li>
 <li>Serve MiCar - Mi Store/Amazon AppStore</li>
 <li>I Collect - Mi Store, Amazon App Store, Playstore - (Coming Soon)</li>
